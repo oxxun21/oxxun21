@@ -2,6 +2,6 @@
 <img
   src="https://render.gitanimals.org/farms/oxxun21"
   width="1000"
-  height="600"
+  height="400"
 />
 </a>
